@@ -80,3 +80,4 @@ fisher.test(table1)
 
 ## Conclusions
 
+The probability of a male is 2.3 time more likely to die have been infected by covid 19 than a female.
